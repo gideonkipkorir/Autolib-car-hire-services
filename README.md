@@ -6,4 +6,4 @@ Business problems that week seek to find solutions include:
 2.	What is the most popular hour for returning cars?
 3.	What station is the post popular, overall, during popular pick hours?
 4.	What postcode is most popular for picking Blue Cars? Does the most popular station belong to the postal code?
-5.	Do the results change if you consider Utilib and Utilib 1.4 instead of Blue Cars?
+
