@@ -8,7 +8,7 @@ Business problems that week seek to find solutions include:
 4.	What postcode is most popular for picking Blue Cars? Does the most popular station belong to the postal code?
 
 ## Data processing
-*cleaned the data
+* cleaned the data
 * drop some columns
 * Feature engineering to obtain
 * Sort values in ascending order based on dates and stations to arrive at the answers of the above questions.
